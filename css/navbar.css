@@ -1,0 +1,35 @@
+header {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+
+.navbar {
+    /* background-color: yellowgreen; */
+    display: flex;
+    flex-direction: column;
+}
+
+.logo {
+    height: auto;
+    width: auto;
+}
+
+.navbar__list {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    margin: none;
+    padding: 0;
+}
+
+.list_Item {
+    list-style: none;
+}
+
+.list_Item_A {
+    color: whitesmoke;
+    text-decoration: none;
+    font-size: 2rem;
+}
