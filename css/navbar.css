@@ -10,6 +10,10 @@ header {
     flex-direction: column;
 }
 
+hr {
+    width: 100%;
+}
+
 .logo {
     height: auto;
     width: auto;
@@ -29,14 +33,14 @@ header {
 }
 
 .list_Item_A {
-    color: whitesmoke;
+    padding: 6px;
+    /* border: 1px solid wheat; */
+    border-radius: 10px;
+    color: wheat;
     text-decoration: none;
-    font-size: 2rem;
-<<<<<<< Updated upstream
+    font-size: 3rem;
 }
 
 .hidden {
     display: none;
-=======
->>>>>>> Stashed changes
 }
