@@ -32,8 +32,11 @@ header {
     color: whitesmoke;
     text-decoration: none;
     font-size: 2rem;
+<<<<<<< Updated upstream
 }
 
 .hidden {
     display: none;
+=======
+>>>>>>> Stashed changes
 }
