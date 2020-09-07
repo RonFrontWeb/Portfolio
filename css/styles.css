@@ -1,5 +1,5 @@
-@import "./navbar.css";
-@import "./contact.css";
+@import "./css/navbar.css";
+@import "./css/contact.css";
 body {
     /* background-image: url(/img/cool-background1.png);
     background-repeat: no-repeat; */
